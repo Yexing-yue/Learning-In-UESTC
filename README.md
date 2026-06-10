@@ -13,7 +13,7 @@
 
 <h2 align="center" style="color:lightgreen" id="00">00 前言</h2>
 
-欢迎来到本仓库！（来都来了，点个`Star`吧~）参与贡献请看 [贡献指南](?tab=contributing-ov-file)。
+欢迎来到本仓库！（来都来了，点个`Star`吧~）参与贡献请看 [贡献指南](https://github.com/Fux-i/Learning-In-UESTC?tab=contributing-ov-file)。
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
